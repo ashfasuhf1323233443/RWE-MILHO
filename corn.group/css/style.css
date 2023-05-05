@@ -89,3 +89,65 @@ section.sobre{
     font-size: 30px;
     margin: -40px -5;
 }
+
+.texto-sobre h2{
+    position:relative;
+    right: 200px;
+    margin-top: 50px;
+}
+
+.texto-sobre p{
+    margin: 20px 0;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+}
+
+    .texto-sobre button{
+        border: 0;
+        background-color: green;
+        color:white;
+        border-radius: 20px;
+        width: 100px;
+        right: 30px;
+        cursor: pointer;
+        font-size: 15px;
+}
+
+.ingredientes{
+    position: relative;
+    right: 800px;
+    margin-top: 35px;
+}
+
+.ingredientes p{
+    margin:20px
+    color green;
+    font-size: 22px;
+    font-weight: bold;
+    max-width: 800px;
+    }
+
+.ingredientes h2{
+    position: relative;
+    right: 20px;
+    margin-top: 10px;
+}
+
+.ingredientes h3{
+    position: relative;
+    right: 50px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.ingredientes h4{
+    position:relative;
+    margin-top: 15px;
+    font-size: 20px;
+    right: 120px;
+}
+
+    
+        
