@@ -13,6 +13,7 @@
     padding: 0 2%;
 }
 
+
 html,body{
     height: 100%;
     overflow-y:hidden;
@@ -148,6 +149,14 @@ section.sobre{
     font-size: 20px;
     right: 120px;
 }
+
+.ingredientes h5{
+    position: relative;
+    font-size:40px;
+    margin-top:40px;
+}
+
+
 
     
         
